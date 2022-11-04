@@ -1,0 +1,8 @@
+Programming_In_C++	Yonas_T._Weldeselassie	2015	Hardcover	900
+Advanced_Java	Mark_Lowel	2005	Softcover	1800
+Problem_Solving_Using_C++	Walter_Savitch	2010	Hardcover	1200
+Computer_Graphics	Tom_Jerry	1998	Softcover	600
+How_To_Be_Rich	Mr._Funny	2018	Digital	1200
+Harry_Potter	JK_Rowling	1998	Hardcover	500
+Percy_Jackson	Rick_Riordan	2005	Digital	350
+Book_Thief	Marcus_Z	2008	Digital	500
